@@ -1,3 +1,7 @@
+Checkout the output of our amazing React Application<br>
+Deployed at : "http://ani.github.io/BingeFlix/" <br>
+
+
 ## ReactJS-Movie Database Web App
 
 1- Install nodejs on your system, set up environment variable path first.<br>
@@ -78,3 +82,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+ERRORS :<br> Work on searching part of our application is pending (Feel free to debug it for me, send a PR)<br>
+FontAwesome Component would be updated soon, we are using a "desi-jugaad" aka hack/trick to get it working <br>
+Further improvements for easier debugging to be added soon ( async, await, propTypes, etc)<br>
+
