@@ -1,5 +1,5 @@
 Checkout the output of our amazing React Application<br>
-Deployed at : "http://ani.github.io/BingeFlix/" <br>
+Deployed at : "https://ani.github.io/BingeFlix/" <br>
 
 
 ## ReactJS-Movie Database Web App
