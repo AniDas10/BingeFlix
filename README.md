@@ -1,3 +1,15 @@
+## ReactJS-Movie Database Web App
+
+1- Install nodejs on your system, set up environment variable path first
+2- cd to the directory where the repository has been cloned locally
+3- `npm install` type this in your CMD to install and access all node_modules, which would be required for our react application
+4- `npm i font-awesome` type this to install font-awesome in our react node_modules
+5- `npm start` to start our development server.
+
+And there we go, our react-app is up and running
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
