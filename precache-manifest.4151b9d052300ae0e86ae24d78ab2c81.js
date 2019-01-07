@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "30d6b1fcea77d07e966a",
-    "url": "/BingeFlix/static/css/main.d50ae377.chunk.css"
+    "revision": "da37f7a6c954d3ed6f10",
+    "url": "/BingeFlix/static/css/main.497489d7.chunk.css"
   },
   {
-    "revision": "30d6b1fcea77d07e966a",
-    "url": "/BingeFlix/static/js/main.30d6b1fc.chunk.js"
+    "revision": "da37f7a6c954d3ed6f10",
+    "url": "/BingeFlix/static/js/main.da37f7a6.chunk.js"
   },
   {
-    "revision": "9ea95b9816444c4d95fe",
-    "url": "/BingeFlix/static/css/1.d10874f7.chunk.css"
+    "revision": "7d091f46f53e1ce363b8",
+    "url": "/BingeFlix/static/css/1.86185811.chunk.css"
   },
   {
-    "revision": "9ea95b9816444c4d95fe",
-    "url": "/BingeFlix/static/js/1.9ea95b98.chunk.js"
+    "revision": "7d091f46f53e1ce363b8",
+    "url": "/BingeFlix/static/js/1.7d091f46.chunk.js"
   },
   {
     "revision": "db8f7410997ed565342e",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/BingeFlix/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "9a982d87836f1134b7d3b7408c5d079c",
+    "revision": "482157215096cab9aac917f71aeebd93",
     "url": "/BingeFlix/index.html"
   }
 ];

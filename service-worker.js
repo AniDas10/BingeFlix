@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/BingeFlix/precache-manifest.e66b46dd43271232f231690b9746123d.js"
+  "/BingeFlix/precache-manifest.4151b9d052300ae0e86ae24d78ab2c81.js"
 );
 
 workbox.clientsClaim();
